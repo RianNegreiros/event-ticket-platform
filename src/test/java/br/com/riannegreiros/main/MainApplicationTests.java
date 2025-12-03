@@ -1,10 +1,10 @@
-package com.Github.RianNegreiros.LearnifyAPI;
+package br.com.riannegreiros.main;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnifyApiApplicationTests {
+class MainApplicationTests {
 
 	@Test
 	void contextLoads() {

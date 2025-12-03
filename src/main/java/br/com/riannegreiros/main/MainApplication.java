@@ -1,13 +1,13 @@
-package com.Github.RianNegreiros.LearnifyAPI;
+package br.com.riannegreiros.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnifyApiApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnifyApiApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
 
 }
